@@ -1,4 +1,4 @@
-# Brain-Tumor-Detection (98% Accuracy on test set)
+# Brain-Tumor-Detection (98% Accurate)
 In this project, I used a residual neural-network on brain scan data to create a model that, given a brain scan image, can predict whether or not the image has a brain tumor. 
 ## How to recreate the results in this project:
   - Obtain download the dataset used in this project from [here](https://www.kaggle.com/datasets/preetviradiya/brian-tumor-dataset?datasetId=1343913&select=Brain+Tumor+Data+Set)
