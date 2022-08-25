@@ -1,4 +1,4 @@
-# Brain-Tumor-Detection (98% Accurate)
+# Brain-Tumor-Classification (98% Accurate)
 In this project, I used a residual neural-network on brain scan data to create a model that, given a brain scan image, can predict whether or not the image has a brain tumor. 
 ## Concepts used in this project:
   #### Deep Learning
