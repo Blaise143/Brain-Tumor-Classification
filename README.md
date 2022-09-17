@@ -1,7 +1,7 @@
 # Brain-Tumor-Classification (98% Accurate)
 In this project, I used a residual neural-network on brain scan data to create a model that, given a brain scan image, can predict whether or not the image has a brain tumor. The image below shows the a sample of the images in the dataset used. 
 
-<img src = "https://github.com/Blaise143/Brain-Tumor-Classification/blob/main/images/brain_tumor_img.png" height=500 width=500>
+<img src = "https://github.com/Blaise143/Brain-Tumor-Classification/blob/main/images/brain_tumor_img.png" height=400 width=400>
 
 ## Concepts used in this project:
   #### Deep Learning
